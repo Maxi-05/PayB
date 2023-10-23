@@ -1,0 +1,28 @@
+.Title {
+  text-align: center;
+  color: darkblue;
+  font-size: 40px;
+}
+.Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Form #p,
+.Form #a {
+  margin: 10px;
+}
+.Form button {
+  background-color: darkblue;
+  color: white;
+  border-radius: 7px;
+  border: none;
+  width: 60px;
+  height: 30px;
+  font-size: 15px;
+}
+.table {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
